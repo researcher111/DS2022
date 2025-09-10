@@ -1,6 +1,0 @@
-AAAAAAAAAAAAAAAAAAAAAA
-BBBBBBBBBBBBBBBBBBBBBB
-===================================
-CCCCCCCCCCCCCCCCCCCCCC
-===================================
-DDDDDDDDDDDDDDDDDDDDD
