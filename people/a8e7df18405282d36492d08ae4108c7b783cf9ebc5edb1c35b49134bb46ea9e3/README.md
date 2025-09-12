@@ -1,5 +1,5 @@
 # Claire Newsom
 
 -Hobbies: reading, hiking, playing piano, spending time with friends
--Spyname: unknown
--About me (fake): unknown
+-Spyname: CN
+-About me (fake): I live in Montana
