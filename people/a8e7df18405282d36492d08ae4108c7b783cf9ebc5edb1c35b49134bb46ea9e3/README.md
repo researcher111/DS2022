@@ -1,5 +1,5 @@
-# Aimee Salazar Luna
+# Claire Newsom
 
-- Hobbies: hanging with friends, reading, exploring places, boba runs 
-- Spyname: Luna
-- About me (Fake): I'm 21 and live in Utah 
+-Hobbies: reading, hiking, playing piano, spending time with friends
+-Spyname: unknown
+-About me (fake): unknown
