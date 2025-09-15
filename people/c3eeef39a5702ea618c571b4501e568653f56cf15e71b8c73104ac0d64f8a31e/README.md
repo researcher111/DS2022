@@ -1,7 +1,6 @@
-# Natalie Schweickert
-
-![Path to an image](happiness.jpg)
+# Natalie S
 
 - Hobbies: pickleball
-- Spyname: lol
-- About me (Fake): i like dogs 
+- Spyname: awesome123 
+- About me i like to bake
+
