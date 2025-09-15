@@ -1,5 +1,5 @@
-# Michael Know
+# Shreyans Jain
 ![Spy Avatar](happiness.jpg)
-- Hobbies: Basketball, chess, videogames, and tetris
-- Spyname: Vyx
-- About me (fake): I spied on Steph Curry 
+- Hobbies: Wrestling & Ping Pong
+- Spyname: Taco
+- About me (fake): I love water 
