@@ -1,6 +1,6 @@
-# Nelson Lattimer
+# Claire Newsom
 
-- Hobbies: Running, pickleball, coding
-- Spyname: Nelly
-- About me (Fake): Loves dogs
+-Hobbies: hiking, reading, playing piano
+-Spyname: CN
+-About me: I live in Montana 
 
