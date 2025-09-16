@@ -1,5 +1,5 @@
-# Aimee Salazar Luna
+# Erik Huisman
 
-- Hobbies: hanging with friends, reading, exploring places, boba runs 
-- Spyname: Luna
-- About me (Fake): I'm 21 and live in Utah 
+- Hobbies: Playing tennis, watching sports, playing video games
+- Spyname: Ricardo
+- About me (Fake): I'm 22 and I live in West Florida 
