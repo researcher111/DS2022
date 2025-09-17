@@ -1,7 +1,7 @@
-# Rae6me
+# Alex "Shadow" Chen
 
 ![Path to an image](happiness.jpg)
 
-- Hobbies: Data analysis, hiking, and solving complex puzzles
-- Spyname: The Data Whisperer
-- About me (Fake): I'm a master of disguise who specializes in infiltrating data systems and extracting valuable intelligence. By day, I appear to be a regular student, but by night I use my coding skills to uncover hidden patterns in datasets that could change the world. My cover story is perfect - who would suspect a data science student of being a secret agent? 
+- Hobbies: Competitive chess, urban exploration, learning dead languages, collecting vintage spy novels
+- Spyname: "The Phantom"
+- About me (Fake): I'm a 23-year-old linguistics major who moonlights as a professional escape room designer. I speak 7 languages fluently and have an uncanny ability to remember every detail of conversations from weeks ago. My dream is to open a bookstore that doubles as a secret meeting place for international diplomats. I once solved a Rubik's cube blindfolded while reciting Shakespeare backwards. 
