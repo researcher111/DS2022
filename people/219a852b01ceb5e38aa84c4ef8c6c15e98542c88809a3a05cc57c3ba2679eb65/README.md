@@ -2,6 +2,6 @@
 
 ![Path to an image](happiness.jpg)
 
-- Hobbies: Competitive chess, urban exploration, learning dead languages, collecting vintage spy novels
-- Spyname: "The Phantom"
-- About me (Fake): I'm a 23-year-old linguistics major who moonlights as a professional escape room designer. I speak 7 languages fluently and have an uncanny ability to remember every detail of conversations from weeks ago. My dream is to open a bookstore that doubles as a secret meeting place for international diplomats. I once solved a Rubik's cube blindfolded while reciting Shakespeare backwards. 
+- Hobbies: Reading spy novels, rock climbing, cooking
+- Spyname: Agent Shadow
+- About me (Fake): I'm a data science student who's convinced that my cat is actually plotting world domination through strategic nap scheduling. I spend my free time analyzing her sleep patterns and have developed a machine learning model to predict when she'll knock things off my desk. I also make surprisingly good pancakes and have an irrational fear of automatic hand dryers. 
