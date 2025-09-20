@@ -1,5 +1,6 @@
-# Shreyans Jain
-![Spy Avatar](happiness.jpg)
-- Hobbies: Wrestling & Ping Pong
-- Spyname: Taco
-- About me (fake): I love water 
+
+# Rashi Adhikari 
+
+- Hobbies: dance
+- Spyname: rara18
+- About me (Fake): I love data science!!!
